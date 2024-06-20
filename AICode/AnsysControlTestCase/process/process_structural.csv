@@ -1,0 +1,12 @@
+Step,Button,Command
+1,Model,doubleClick
+2,Contex,rightClick
+3,Maximise,click
+4,Home,click
+5,Full,click
+6,Solution,rightClick
+7,Insert,move
+8,stres,move
+9,von-Mises,click
+10,Equivalent Stress,rightClick
+11,Solve,click
